@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <!-- Página de Inicio -->
+   <url>
+      <loc>https://gpascu.github.io/autoIndustrialTP_gpascuzzi/</loc>
+      <lastmod>2026-06-25</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+   </url>
+   
+   <!-- Página de Servicios -->
+   <url>
+      <loc>https://gpascu.github.io/autoIndustrialTP_gpascuzzi/servicios.html</loc>
+      <lastmod>2026-06-25</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- Página de Contacto -->
+   <url>
+      <loc>https://gpascu.github.io/autoIndustrialTP_gpascuzzi/contacto.html</loc>
+      <lastmod>2026-06-25</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+   </url>
+</urlset>

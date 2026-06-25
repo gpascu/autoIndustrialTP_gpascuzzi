@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Permitir que Google lea los estilos y scripts para entender el diseño responsive
+Allow: /estilos.css
+Allow: /eventos.js
+
+# Sitemap
+Sitemap: https://gpascu.github.io/autoIndustrialTP_gpascuzzi/sitemap.xml
